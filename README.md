@@ -1,8 +1,8 @@
-#CyberMind
+# CyberMind
 --
 CyberMind is an interactive web-based quizez platform specialized in cybersecurity. It aims to assess and evaluate users' security knowledge through carefully designed technical challenges and quizzes, while providing dedicated role-based views for both students and instructors.
 
-##🚀 Features
+## 🚀 Features
 --
 Role-Based Views:
 
@@ -14,7 +14,7 @@ Interactive Quiz System: Diverse questions and challenges covering various cyber
 
 Database Management: Securely and efficiently stores user data, questions, and grades.
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 --
 Frontend: HTML, CSS, JavaScript (for building responsive and interactive user interfaces).
 
